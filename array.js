@@ -25,3 +25,4 @@ while (cars.length > 0) {
     console.log(cars.valueOf());
 }
 
+cars.push("Thaco");
